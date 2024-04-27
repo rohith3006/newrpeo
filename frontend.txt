@@ -4,6 +4,7 @@ class main
     {
         int a=10;
         ibt b=20;
+System.out.println(a+b);
         
     }
 
