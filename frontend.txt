@@ -3,7 +3,7 @@ class main
     pclic static void main(Strng[] args)
     {
         int a=10;
-        ibt b=20;
+        ibt b=22;
 
     }
 
